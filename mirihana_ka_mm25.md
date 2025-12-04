@@ -1,4 +1,4 @@
-# olecular Insights into Lipid Corona Dynamics on Gold Nanoparticles
+# Molecular Insights into Lipid Corona Dynamics on Gold Nanoparticles
 
 ## Presenting Author
 Kalpani A. Mirihana
